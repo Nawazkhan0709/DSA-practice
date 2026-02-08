@@ -1,2 +1,2 @@
 # DSA-practice
-DSA problems solved with explanation and 
+DSA problems solved with explanation and explanations.
